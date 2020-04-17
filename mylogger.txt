@@ -1,0 +1,6 @@
+
+The program started its work at 2020-04-17 10:14:15.614885.
+
+The program finished its functioning at 2020-04-17 10:14:18.827942.
+
+The duration of its functioning is 0:00:03.213057.
